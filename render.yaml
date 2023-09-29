@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: monkey
+    env: docker
+    plan: free
